@@ -39,11 +39,7 @@
   .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
   table { border-collapse: collapse; width: 100%; font-size: .95rem; }
   td { padding: 3px 0; border-bottom: 1px solid var(--line); } td:first-child { color: var(--muted); width: 40%; }
-  dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; margin: 12px 0 0; font-size: .9rem; }
-  dt { color: var(--muted); } dd { margin: 0; overflow-wrap: anywhere; }
-  ul { margin: 8px 0 0; padding-left: 20px; } li { margin: 3px 0; }
   code { font-size: .85em; }
-  @media (max-width: 560px) { dl { grid-template-columns: 1fr; } }
 </style>
 </head>
 <body>
@@ -58,11 +54,9 @@
   <p class="meta">Google Calendar: use “Add to Google”, or Settings → Add calendar → From URL and paste the copied link.
     Google refreshes subscribed calendars on its own schedule (often every 8–24 hours).</p>
 
-  <h2>Current hours &amp; data health</h2>
+  <h2>Current hours</h2>
   <div class="grid" id="gyms"></div>
 
-  <h2>Limitations</h2>
-  <div class="card"><ul id="limits"></ul></div>
 </main>
 <script>
 const FALLBACK = {
@@ -98,9 +92,9 @@ function render(s) {
   const hours = s.stale_after_hours || 192;
   const gyms = s.gyms || FALLBACK.gyms;
   const anyStale = Object.values(gyms).some(g => isStale(g, hours));
-  document.getElementById("health").innerHTML = `<span class="badge ${esc(s.status)}">${esc(s.status || "unknown")}</span>` +
-    (anyStale ? ` <span class="badge stale">stale — some feeds may be out of date</span>` : "") +
-    ` <span class="meta">last checked ${esc(fmt(s.last_checked))}</span>`;
+  document.getElementById("health").innerHTML = (s.status === "error" ? `<span class="badge error">refresh failing</span> ` : "") +
+    (anyStale ? `<span class="badge stale">stale — some feeds may be out of date</span> ` : "") +
+    `<span class="meta">last checked ${esc(fmt(s.last_checked))}</span>`;
 
   const combined = s.combined || FALLBACK.combined;
   document.getElementById("feeds").innerHTML =
@@ -110,26 +104,10 @@ function render(s) {
   document.getElementById("gyms").innerHTML = Object.values(gyms).map(g => {
     const stale = isStale(g, hours);
     const rows = Object.entries(g.hours || {}).map(([d, h]) => `<tr><td>${esc(d)}</td><td>${esc(h)}</td></tr>`).join("");
-    const notes = [
-      ...(g.errors || []).map(e => `<li><span class="badge error">error</span> ${esc(e)}</li>`),
-      ...(g.warnings || []).map(w => `<li>${esc(w)}</li>`),
-      ...(g.holiday_overrides_in_horizon || []).map(h => `<li>Holiday hours applied: ${esc(h.holiday)} ${esc(h.date)} — ${esc(h.hours)}</li>`),
-    ].join("");
-    return `<div class="card"><h3>${esc(g.name)} <span class="badge ${esc(g.status)}">${esc(g.status || "unknown")}</span>
-      ${stale ? '<span class="badge stale">stale</span>' : ""}</h3>
-      ${rows ? `<table>${rows}</table>` : '<p class="meta">No validated hours yet.</p>'}
-      <dl>
-        <dt>Source</dt><dd><a href="${esc(g.url)}">${esc(g.url)}</a></dd>
-        <dt>Last checked</dt><dd>${esc(fmt(g.last_checked))}</dd>
-        <dt>Last successful extraction</dt><dd>${esc(fmt(g.last_success))}</dd>
-        <dt>Last feed change</dt><dd>${esc(fmt(g.last_published))}</dd>
-        <dt>Hours unchanged since</dt><dd>${esc(fmt(g.first_seen))}</dd>
-        <dt>Extracted from</dt><dd>${esc(g.extraction?.weekly_source || "—")}${g.extraction && !g.extraction.holidays_available ? " (no holiday data on page)" : ""}</dd>
-      </dl>
-      ${notes ? `<ul>${notes}</ul>` : ""}</div>`;
+    const bad = g.status === "error" ? '<span class="badge error">refresh failing</span>' : "";
+    return `<div class="card"><h3>${esc(g.name)} ${bad} ${stale ? '<span class="badge stale">stale</span>' : ""}</h3>
+      ${rows ? `<table>${rows}</table>` : '<p class="meta">No validated hours yet.</p>'}</div>`;
   }).join("");
-
-  document.getElementById("limits").innerHTML = (s.limitations || []).map(l => `<li>${esc(l)}</li>`).join("");
 }
 
 fetch("status.json", { cache: "no-store" })
