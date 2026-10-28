@@ -1,0 +1,51 @@
+# Configuration for planet-fitness-hours-calendar (club OPENING HOURS only - never classes).
+
+timezone = "America/Los_Angeles"
+horizon_days = 90
+# Checked weekly; stale once a check is more than a day overdue.
+stale_after_hours = 192
+
+[browser]
+# planetfitness.com sits behind a Cloudflare browser check, so pages are loaded in headless Chromium.
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+timeout_ms = 60000
+# How long to wait for the club data to appear (covers the Cloudflare interstitial).
+ready_timeout_ms = 45000
+retries = 3
+backoff_seconds = 20
+min_interval_seconds = 5
+
+[validation]
+# An open day with fewer open minutes than this is treated as a parsing error.
+min_open_minutes = 120
+# Fail if a gym's new feed has this much fewer events than the published one over the same dates.
+max_event_drop_ratio = 0.5
+
+# Holidays that commonly change club hours. If one falls inside the horizon and Planet Fitness has not
+# published hours for it, the day is shown with regular hours but clearly labelled "unconfirmed".
+watch_holidays = ["New Year's Day", "Easter", "Memorial Day", "Independence Day", "Labor Day",
+                  "Thanksgiving", "Christmas Eve", "Christmas", "New Year's Eve"]
+
+[[gyms]]
+key = "milwaukie"
+name = "Planet Fitness Milwaukie (Hwy 224 & SE Oak St)"
+short = "PF Milwaukie"
+url = "https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or"
+slug = "milwaukie-hwy-224-se-oak-st-or"
+location = "Planet Fitness, 10898 SE Oak St, Milwaukie, OR 97222"
+file = "planet_fitness_milwaukie_hours.ics"
+calendar_name = "Planet Fitness Milwaukie – Club Hours"
+
+[[gyms]]
+key = "se_82nd"
+name = "Planet Fitness Portland SE 82nd (Clackamas)"
+short = "PF SE 82nd"
+url = "https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or"
+slug = "portland-se-82nd-clackamas-or"
+location = "Planet Fitness, 10319 SE 82nd Ave, Portland, OR 97266"
+file = "planet_fitness_se_82nd_hours.ics"
+calendar_name = "Planet Fitness SE 82nd – Club Hours"
+
+[combined]
+file = "planet_fitness_both_hours.ics"
+calendar_name = "Planet Fitness – Milwaukie + SE 82nd Club Hours"

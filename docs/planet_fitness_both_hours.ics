@@ -1,0 +1,2759 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//planet-fitness-hours-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planet Fitness – Milwaukie + SE 82nd Club Hours
+X-WR-CALDESC:Planet Fitness club opening hours (not classes)\, generated we
+ ekly from planetfitness.com.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f701556cc4d8f8e812a625f065e66602@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261028T000000
+DTEND;TZID=America/Los_Angeles:20261029T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f950e2542d2844db4205a556c543ac6d@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261028T000000
+DTEND;TZID=America/Los_Angeles:20261029T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:559f5f1d1ba690d8fd70b10f88e154cc@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261029T000000
+DTEND;TZID=America/Los_Angeles:20261030T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b2b50c58f5363a66895370c8ba66f0d@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261029T000000
+DTEND;TZID=America/Los_Angeles:20261030T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:640d98301ad845d87f1b34bfb02e85e5@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261030T000000
+DTEND;TZID=America/Los_Angeles:20261030T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a46f4b78c87d186a0be053604c11249a@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261030T000000
+DTEND;TZID=America/Los_Angeles:20261030T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2074cb431a3c04cdf8f9238f00e7c032@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261031T060000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ed5c7703ffb3b833352bdd76a2b507fd@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261031T060000
+DTEND;TZID=America/Los_Angeles:20261031T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c24425ea0da1c50d6ebf6e91476dd959@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261101T060000
+DTEND;TZID=America/Los_Angeles:20261101T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:db0bb9f34746e7c6545d98189bb197b5@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261101T060000
+DTEND;TZID=America/Los_Angeles:20261101T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c95a736f5046916eba9f8672dc07860@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261102T000000
+DTEND;TZID=America/Los_Angeles:20261103T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:700ac397afbefea305d0cd141a854486@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261102T000000
+DTEND;TZID=America/Los_Angeles:20261103T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:31886d4598a926ce3b3bf1f08906c12a@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261103T000000
+DTEND;TZID=America/Los_Angeles:20261104T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8952d39c352f4d03441e158385ef99b6@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261103T000000
+DTEND;TZID=America/Los_Angeles:20261104T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ef89e4fc71f8d370b2a0a70459fc6de1@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261104T000000
+DTEND;TZID=America/Los_Angeles:20261105T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d699891f1f56c32af29d5183da5765@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261104T000000
+DTEND;TZID=America/Los_Angeles:20261105T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:87f535448ff5cd9211966c6260dbc516@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261105T000000
+DTEND;TZID=America/Los_Angeles:20261106T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:de9b46e215ddf6df6d83ccb0fce2d285@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261105T000000
+DTEND;TZID=America/Los_Angeles:20261106T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50d1a20c9476252cbf821d0081695757@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261106T000000
+DTEND;TZID=America/Los_Angeles:20261106T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c6cfdf7300da8414231f2be0e459cc98@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261106T000000
+DTEND;TZID=America/Los_Angeles:20261106T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:03a29f7340ed8d860741f7930dc85a7c@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261107T060000
+DTEND;TZID=America/Los_Angeles:20261107T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ae178a3e7100ec2b4ed1b43dc4c9e2a4@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261107T060000
+DTEND;TZID=America/Los_Angeles:20261107T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0514b8013236b8ff21fc91af0ab28748@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261108T060000
+DTEND;TZID=America/Los_Angeles:20261108T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a0699a651a8bd4277e5595507531e9@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261108T060000
+DTEND;TZID=America/Los_Angeles:20261108T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:80db804ae3a6ea8c59ae6f2b42913276@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261109T000000
+DTEND;TZID=America/Los_Angeles:20261110T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f96f2eed705ac1bde2c395f71ebef297@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261109T000000
+DTEND;TZID=America/Los_Angeles:20261110T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5bcc6401fc7b9d5f26670cf5e9a6f1cc@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261110T000000
+DTEND;TZID=America/Los_Angeles:20261111T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:996af43b8e33e370ed3b64e46e14843d@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261110T000000
+DTEND;TZID=America/Los_Angeles:20261111T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ce3d28940e2294716b2c02f8aee0671@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261111T000000
+DTEND;TZID=America/Los_Angeles:20261112T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f6aada2af8b3b441cdf84f74e3cbc923@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261111T000000
+DTEND;TZID=America/Los_Angeles:20261112T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:48d7d1e69aea09c9574504c1a9ac39e1@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261112T000000
+DTEND;TZID=America/Los_Angeles:20261113T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bddd8ed6e71c34470bed79da7d0790ec@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261112T000000
+DTEND;TZID=America/Los_Angeles:20261113T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1e59c965afa8038ab72638dba5b4f640@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261113T000000
+DTEND;TZID=America/Los_Angeles:20261113T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4304a18e0c69b4b12ebd7336e3b033@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261113T000000
+DTEND;TZID=America/Los_Angeles:20261113T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:32a8f70880aa0818f5226ad8c1707416@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261114T060000
+DTEND;TZID=America/Los_Angeles:20261114T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab139c75ebee76326d00759e96170a5@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261114T060000
+DTEND;TZID=America/Los_Angeles:20261114T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70055f56708cff2b726e22a8c6b9f702@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261115T060000
+DTEND;TZID=America/Los_Angeles:20261115T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fc488c8592822950cde3a59a385a0d6c@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261115T060000
+DTEND;TZID=America/Los_Angeles:20261115T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a03a816c7a538c550b96cf78f06b7621@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261116T000000
+DTEND;TZID=America/Los_Angeles:20261117T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cd733f450dc461dcd4118cbc8d4e4efd@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261116T000000
+DTEND;TZID=America/Los_Angeles:20261117T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7b6d2ce75fe7fa34a3096ddf7c65ba8c@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261117T000000
+DTEND;TZID=America/Los_Angeles:20261118T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb04c9a3c3a24a311c10b755d4637c82@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261117T000000
+DTEND;TZID=America/Los_Angeles:20261118T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0441a70dc43945cb258b654dbbffef42@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261118T000000
+DTEND;TZID=America/Los_Angeles:20261119T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a6731ebed1f41dddfbcad79c9ea40571@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261118T000000
+DTEND;TZID=America/Los_Angeles:20261119T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15a1112362b93ef6d2b5a79a71a1809e@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261119T000000
+DTEND;TZID=America/Los_Angeles:20261120T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2e5601923df850f0cbc2a3ba713577@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261119T000000
+DTEND;TZID=America/Los_Angeles:20261120T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c5849bb14b0f717a2af42112d70db0@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261120T000000
+DTEND;TZID=America/Los_Angeles:20261120T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe0b58e6bf1dc1f1953d89bbe612cb0@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261120T000000
+DTEND;TZID=America/Los_Angeles:20261120T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76aad2b142c5c2f6f2f5046b7fe08cb6@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261121T060000
+DTEND;TZID=America/Los_Angeles:20261121T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aa63dc189c62106af7bbb765b2b7bdc3@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261121T060000
+DTEND;TZID=America/Los_Angeles:20261121T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6e27effc0b5ca21a741ace93b36373@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261122T060000
+DTEND;TZID=America/Los_Angeles:20261122T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a66e788e4f3e66e1cd815363dda70696@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261122T060000
+DTEND;TZID=America/Los_Angeles:20261122T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9201b44aa765e34080261dabe7690ee4@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261123T000000
+DTEND;TZID=America/Los_Angeles:20261124T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a907e69d29a240d49ff7eb60a175b5b1@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261123T000000
+DTEND;TZID=America/Los_Angeles:20261124T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83c37be2a77cce57af5acc90c9829598@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261124T000000
+DTEND;TZID=America/Los_Angeles:20261125T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b48f9a94c5f6452f1441e5eb7b82979a@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261124T000000
+DTEND;TZID=America/Los_Angeles:20261125T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b97161aedbb74433d6de95463ac81eb6@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261125T000000
+DTEND;TZID=America/Los_Angeles:20261126T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f1e2bb0c8013f7c633a6fd04f666b8@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261125T000000
+DTEND;TZID=America/Los_Angeles:20261126T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4395886c5137673e95796ba770124007@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261126T000000
+DTEND;TZID=America/Los_Angeles:20261127T000000
+SUMMARY:PF Milwaukie: Open 24 hours (Thanksgiving: holiday hours unconfirme
+ d)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nThanksgiving: Planet Fitness has not published holi
+ day hours for this date. Regular hours shown – UNCONFIRMED\, check with 
+ the club.\nHours as published on planetfitness.com – confirm with the cl
+ ub before visiting.\nSource: https://www.planetfitness.com/gyms/milwaukie-
+ hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:819d50970d3cd449329838abe5134e1b@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261126T000000
+DTEND;TZID=America/Los_Angeles:20261127T000000
+SUMMARY:PF SE 82nd: Open 24 hours (Thanksgiving: holiday hours unconfirmed)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nThanksgiving: Planet Fitness has not published holiday
+  hours for this date. Regular hours shown – UNCONFIRMED\, check with the
+  club.\nHours as published on planetfitness.com – confirm with the club 
+ before visiting.\nSource: https://www.planetfitness.com/gyms/portland-se-8
+ 2nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:205e8681e0f22b6902d18f8c9a7ce494@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261127T000000
+DTEND;TZID=America/Los_Angeles:20261127T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83890c0f9da854bebfe6636d9026b899@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261127T000000
+DTEND;TZID=America/Los_Angeles:20261127T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1b45b3ff5871334e295edd8af215b091@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261128T060000
+DTEND;TZID=America/Los_Angeles:20261128T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2cf018ea4b4035a1d386da108d9de3a6@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261128T060000
+DTEND;TZID=America/Los_Angeles:20261128T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:869c5e63a4084701c7dc6e6477f8bdfc@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261129T060000
+DTEND;TZID=America/Los_Angeles:20261129T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ace91ef2f28e5e612a221bb91a901416@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261129T060000
+DTEND;TZID=America/Los_Angeles:20261129T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5557c74799175782dfd1ee4c61e48da2@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261130T000000
+DTEND;TZID=America/Los_Angeles:20261201T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:77cafeee1d9ae415dad747ed4bafe958@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261130T000000
+DTEND;TZID=America/Los_Angeles:20261201T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d751aaafeb15f557502b1274fe6ea41@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261201T000000
+DTEND;TZID=America/Los_Angeles:20261202T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8e7729d396ccf8c85d1aabceeea10c@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261201T000000
+DTEND;TZID=America/Los_Angeles:20261202T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1284648c3e49484baf2cf8818bd8cbfb@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261202T000000
+DTEND;TZID=America/Los_Angeles:20261203T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8da7be411cb48fefc8950f9a062ac93f@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261202T000000
+DTEND;TZID=America/Los_Angeles:20261203T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c0813947e32b031192e558ff36a17cb@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261203T000000
+DTEND;TZID=America/Los_Angeles:20261204T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:99a49908e160f4ab3053523eab6c8a53@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261203T000000
+DTEND;TZID=America/Los_Angeles:20261204T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b76f141b0853860c5f94450d1405af42@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261204T000000
+DTEND;TZID=America/Los_Angeles:20261204T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f29b486c92f620677e6dc7e63a9448e3@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261204T000000
+DTEND;TZID=America/Los_Angeles:20261204T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68d3b786dcbdc3dc8c7007316cde1495@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261205T060000
+DTEND;TZID=America/Los_Angeles:20261205T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2e8cfc1e4faf9548529292deab333c@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261205T060000
+DTEND;TZID=America/Los_Angeles:20261205T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:92c621afffc6774f2708a3c5ff6c30df@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261206T060000
+DTEND;TZID=America/Los_Angeles:20261206T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6c0cfdad7ccdf85020382510e08f1a@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261206T060000
+DTEND;TZID=America/Los_Angeles:20261206T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c5bd9a1245790b703d1350103eb30119@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261207T000000
+DTEND;TZID=America/Los_Angeles:20261208T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f5185d98eef0e447dbf8dc69e5e938d2@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261207T000000
+DTEND;TZID=America/Los_Angeles:20261208T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30756c0dc551d9af754470d6061077ac@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261208T000000
+DTEND;TZID=America/Los_Angeles:20261209T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c16d87f117e2c21276b414530a49a27d@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261208T000000
+DTEND;TZID=America/Los_Angeles:20261209T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:778028badc55e4e84c985ac349de6fb6@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261209T000000
+DTEND;TZID=America/Los_Angeles:20261210T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9d68fded0b9cc2e95b036cbd21a4f599@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261209T000000
+DTEND;TZID=America/Los_Angeles:20261210T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7e493f32492ca5da54f18adca7a86454@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261210T000000
+DTEND;TZID=America/Los_Angeles:20261211T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c650975b06b797ae657073f826123edd@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261210T000000
+DTEND;TZID=America/Los_Angeles:20261211T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b2a389e7dcb9e7926dcd8b96afa7be5@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261211T000000
+DTEND;TZID=America/Los_Angeles:20261211T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ad551f4f2dc4a13455ae04b324fb4741@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261211T000000
+DTEND;TZID=America/Los_Angeles:20261211T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3914913999edc649beb8d805d3e7c940@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261212T060000
+DTEND;TZID=America/Los_Angeles:20261212T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fab0c5c6f25166b4e7517af23cee426d@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261212T060000
+DTEND;TZID=America/Los_Angeles:20261212T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0c079521b76680518dd6a825878a4bf1@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261213T060000
+DTEND;TZID=America/Los_Angeles:20261213T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:62d33724b776ab859f75885f01976316@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261213T060000
+DTEND;TZID=America/Los_Angeles:20261213T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4abe320fad9eeb9670877be424c0b5ce@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261214T000000
+DTEND;TZID=America/Los_Angeles:20261215T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c6e38780d248376f0c4e4096abd43a@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261214T000000
+DTEND;TZID=America/Los_Angeles:20261215T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8a32cf517cc144c75ebf59c0f91d43de@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261215T000000
+DTEND;TZID=America/Los_Angeles:20261216T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e3cef6100aa0f64dc87ad2fda935af2d@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261215T000000
+DTEND;TZID=America/Los_Angeles:20261216T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:762de5e285d65405dbf63266067287c7@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261216T000000
+DTEND;TZID=America/Los_Angeles:20261217T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a17c5bc8a331bc7a9b9cac242a95c5@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261216T000000
+DTEND;TZID=America/Los_Angeles:20261217T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6bed3af050c8bfee6c2831fcd8fc25c6@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261217T000000
+DTEND;TZID=America/Los_Angeles:20261218T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c6048981a00c7175a55ac256bc93a4ca@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261217T000000
+DTEND;TZID=America/Los_Angeles:20261218T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ced14f30a0db3dc37c57da6d9dd8d8@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261218T000000
+DTEND;TZID=America/Los_Angeles:20261218T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4807db5a393d83e2119356639df8285@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261218T000000
+DTEND;TZID=America/Los_Angeles:20261218T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd9d1259facb5289fbc022ba0e8ffc1@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261219T060000
+DTEND;TZID=America/Los_Angeles:20261219T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:960520787fe2d266f4ad393205df7687@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261219T060000
+DTEND;TZID=America/Los_Angeles:20261219T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a635b154983f331a589cdec64e3fb603@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261220T060000
+DTEND;TZID=America/Los_Angeles:20261220T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d2cba68935d717c66801b2d735fdb2b8@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261220T060000
+DTEND;TZID=America/Los_Angeles:20261220T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a4d6d88f520157515bb26a9a5ec7daf0@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261221T000000
+DTEND;TZID=America/Los_Angeles:20261222T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c603c5e02624bb602a56b6fe36070e17@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261221T000000
+DTEND;TZID=America/Los_Angeles:20261222T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3264e91d5257da52cdc66737a0dea2a8@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261222T000000
+DTEND;TZID=America/Los_Angeles:20261223T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5d5c9593dcfff6aa853ea82ca7bb12d8@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261222T000000
+DTEND;TZID=America/Los_Angeles:20261223T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70df90c78917e13a9bf59aa16cd45b05@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261223T000000
+DTEND;TZID=America/Los_Angeles:20261224T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:97530cdc1ce156002a0c390981e45093@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261223T000000
+DTEND;TZID=America/Los_Angeles:20261224T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ae112771843951919708e923eb6ca153@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261224T000000
+DTEND;TZID=America/Los_Angeles:20261225T000000
+SUMMARY:PF SE 82nd: Open 24 hours (Christmas Eve: holiday hours unconfirmed
+ )
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nChristmas Eve: Planet Fitness has not published holida
+ y hours for this date. Regular hours shown – UNCONFIRMED\, check with th
+ e club.\nHours as published on planetfitness.com – confirm with the club
+  before visiting.\nSource: https://www.planetfitness.com/gyms/portland-se-
+ 82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dd41c99b49aa5523822200f87dea585e@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261224T000000
+DTEND;TZID=America/Los_Angeles:20261225T000000
+SUMMARY:PF Milwaukie: Open 24 hours (Christmas Eve: holiday hours unconfirm
+ ed)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nChristmas Eve: Planet Fitness has not published hol
+ iday hours for this date. Regular hours shown – UNCONFIRMED\, check with
+  the club.\nHours as published on planetfitness.com – confirm with the c
+ lub before visiting.\nSource: https://www.planetfitness.com/gyms/milwaukie
+ -hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d429aed47889eff9ccdf7100685e8b7@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261225T000000
+DTEND;TZID=America/Los_Angeles:20261225T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM (Christmas: holiday hours un
+ confirmed)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nChristmas: Planet Fitness has not published holiday ho
+ urs for this date. Regular hours shown – UNCONFIRMED\, check with the cl
+ ub.\nHours as published on planetfitness.com – confirm with the club bef
+ ore visiting.\nSource: https://www.planetfitness.com/gyms/portland-se-82nd
+ -clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f872a6f5182324186e405445df04dc34@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261225T000000
+DTEND;TZID=America/Los_Angeles:20261225T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM (Christmas: holiday hours 
+ unconfirmed)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nChristmas: Planet Fitness has not published holiday
+  hours for this date. Regular hours shown – UNCONFIRMED\, check with the
+  club.\nHours as published on planetfitness.com – confirm with the club 
+ before visiting.\nSource: https://www.planetfitness.com/gyms/milwaukie-hwy
+ -224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:247895c29b957c48e1427a0e6a84ee86@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261226T060000
+DTEND;TZID=America/Los_Angeles:20261226T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:928851623d89c091bdba627357ad33ac@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261226T060000
+DTEND;TZID=America/Los_Angeles:20261226T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:020e498701f85451e37a93f062cb6503@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261227T060000
+DTEND;TZID=America/Los_Angeles:20261227T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:090aa578e9d236fab05494a8ea5ae25b@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261227T060000
+DTEND;TZID=America/Los_Angeles:20261227T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:71368dc6ef3bf18ff774078d398d46aa@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261228T000000
+DTEND;TZID=America/Los_Angeles:20261229T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d6b238c63a360f8a7ad0aefeb27585@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261228T000000
+DTEND;TZID=America/Los_Angeles:20261229T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:02b70e8c4addb20480a393cab4bc8803@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261229T000000
+DTEND;TZID=America/Los_Angeles:20261230T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:958da6c9b874eeecccfeccc5ca396ca4@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261229T000000
+DTEND;TZID=America/Los_Angeles:20261230T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8be0f16c270dfea593ccd2e8f3c2ddee@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261230T000000
+DTEND;TZID=America/Los_Angeles:20261231T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5fa64fa2bc1e2f52d482e2881c8fd8@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261230T000000
+DTEND;TZID=America/Los_Angeles:20261231T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0da392eefa96321753b3dcb6aa852d48@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20261231T000000
+DTEND;TZID=America/Los_Angeles:20270101T000000
+SUMMARY:PF Milwaukie: Open 24 hours (New Year's Eve: holiday hours unconfir
+ med)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nNew Year's Eve: Planet Fitness has not published ho
+ liday hours for this date. Regular hours shown – UNCONFIRMED\, check wit
+ h the club.\nHours as published on planetfitness.com – confirm with the 
+ club before visiting.\nSource: https://www.planetfitness.com/gyms/milwauki
+ e-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49fec2cb99ae34992a35ff9f9874e503@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20261231T000000
+DTEND;TZID=America/Los_Angeles:20270101T000000
+SUMMARY:PF SE 82nd: Open 24 hours (New Year's Eve: holiday hours unconfirme
+ d)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nNew Year's Eve: Planet Fitness has not published holid
+ ay hours for this date. Regular hours shown – UNCONFIRMED\, check with t
+ he club.\nHours as published on planetfitness.com – confirm with the clu
+ b before visiting.\nSource: https://www.planetfitness.com/gyms/portland-se
+ -82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5568b228ad52a8be4a32bdaf1c3a4226@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270101T000000
+DTEND;TZID=America/Los_Angeles:20270101T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM (New Year's Day: holiday hou
+ rs unconfirmed)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nNew Year's Day: Planet Fitness has not published holid
+ ay hours for this date. Regular hours shown – UNCONFIRMED\, check with t
+ he club.\nHours as published on planetfitness.com – confirm with the clu
+ b before visiting.\nSource: https://www.planetfitness.com/gyms/portland-se
+ -82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:75bfde99cdf145934bfec7216a95362e@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270101T000000
+DTEND;TZID=America/Los_Angeles:20270101T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM (New Year's Day: holiday h
+ ours unconfirmed)
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nNew Year's Day: Planet Fitness has not published ho
+ liday hours for this date. Regular hours shown – UNCONFIRMED\, check wit
+ h the club.\nHours as published on planetfitness.com – confirm with the 
+ club before visiting.\nSource: https://www.planetfitness.com/gyms/milwauki
+ e-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a8aa091d351924f412be27dd5f98ec35@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270102T060000
+DTEND;TZID=America/Los_Angeles:20270102T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:acedb5707226d573f92a2d088dfab41c@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270102T060000
+DTEND;TZID=America/Los_Angeles:20270102T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:072d67952c324e0a519eed017681d6e6@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270103T060000
+DTEND;TZID=America/Los_Angeles:20270103T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a6678addbb5713b201357712f39bd93e@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270103T060000
+DTEND;TZID=America/Los_Angeles:20270103T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab3dfc7a11a98f46e547e6ec5d422cb@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270104T000000
+DTEND;TZID=America/Los_Angeles:20270105T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b3aaeb1395cf01d800c1620777b7fe41@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270104T000000
+DTEND;TZID=America/Los_Angeles:20270105T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3781389391519be5c701e905c074eb74@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270105T000000
+DTEND;TZID=America/Los_Angeles:20270106T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3803f9af350054843e2b831819661ca8@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270105T000000
+DTEND;TZID=America/Los_Angeles:20270106T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b6526cb7b6f98001d5a1e50991a88582@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270106T000000
+DTEND;TZID=America/Los_Angeles:20270107T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a31aac760130c0461f8dfd8c865d6e@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270106T000000
+DTEND;TZID=America/Los_Angeles:20270107T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:38804a008d63f9ede8f747e10abdc2d0@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270107T000000
+DTEND;TZID=America/Los_Angeles:20270108T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e38c27791fb88bd55c6863285aaef851@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270107T000000
+DTEND;TZID=America/Los_Angeles:20270108T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c26fa0d6fc2a77e0bbf7e83186daa0be@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270108T000000
+DTEND;TZID=America/Los_Angeles:20270108T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e00a7b8bbeedf20210183070ca008d9f@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270108T000000
+DTEND;TZID=America/Los_Angeles:20270108T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe120175c16c645cbef76c3d5e77364@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270109T060000
+DTEND;TZID=America/Los_Angeles:20270109T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d0dd3f4b51b02aa2f8fdfc5e9b2d88cd@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270109T060000
+DTEND;TZID=America/Los_Angeles:20270109T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:862cbdf1cedd83806feda67d08c8b7ec@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270110T060000
+DTEND;TZID=America/Los_Angeles:20270110T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b1a59d807c493f23e353f5a6e8ce2ae9@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270110T060000
+DTEND;TZID=America/Los_Angeles:20270110T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c861a911c9684ea74b88147e75a161e1@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270111T000000
+DTEND;TZID=America/Los_Angeles:20270112T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d432b52d328d194dd663526f7aeb2968@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270111T000000
+DTEND;TZID=America/Los_Angeles:20270112T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:777b4e8f08b35999c1485f9ceb4a9aa4@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270112T000000
+DTEND;TZID=America/Los_Angeles:20270113T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:950a73dc13ae600e41271c1e8d90bc6d@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270112T000000
+DTEND;TZID=America/Los_Angeles:20270113T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:02eaade91f02e731f54f064f3d65daf2@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270113T000000
+DTEND;TZID=America/Los_Angeles:20270114T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3550156663a07875c2895c06aa343017@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270113T000000
+DTEND;TZID=America/Los_Angeles:20270114T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10e4a1f73fe40d98b7e12d35ad6ac5d6@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270114T000000
+DTEND;TZID=America/Los_Angeles:20270115T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:feb376a5aa229a257dae942f5c8d4e07@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270114T000000
+DTEND;TZID=America/Los_Angeles:20270115T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7b244185e35a41847d2ff1d89e71a1a1@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270115T000000
+DTEND;TZID=America/Los_Angeles:20270115T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aab80b2999df12b270704a0f7115f8be@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270115T000000
+DTEND;TZID=America/Los_Angeles:20270115T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e50c79519a4a2a5a934cc06995636eeb@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270116T060000
+DTEND;TZID=America/Los_Angeles:20270116T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e5245a5d3ccb487a55dbb6feed1294f3@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270116T060000
+DTEND;TZID=America/Los_Angeles:20270116T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:713262e2eef38ea3e906d4ffd132432d@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270117T060000
+DTEND;TZID=America/Los_Angeles:20270117T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:99ace0d9e9d83e14e7a4e0ac73d75b39@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270117T060000
+DTEND;TZID=America/Los_Angeles:20270117T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:17fb606e30c85ef7514a118b1fc15f82@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270118T000000
+DTEND;TZID=America/Los_Angeles:20270119T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:87d1f6677e1b7fbcb173e9a87ad23b29@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270118T000000
+DTEND;TZID=America/Los_Angeles:20270119T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2d25c404c713f2920a94ca56777a9f80@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270119T000000
+DTEND;TZID=America/Los_Angeles:20270120T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f90f89388e710b83049c5a6e3c5cd7a5@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270119T000000
+DTEND;TZID=America/Los_Angeles:20270120T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aea6f9fdd35f94e1965eca1f12ec67e0@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270120T000000
+DTEND;TZID=America/Los_Angeles:20270121T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f438004a6c09d2c725234f8a5d86e62c@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270120T000000
+DTEND;TZID=America/Los_Angeles:20270121T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30b2c1ea7f19df8c780bb6edba87b93b@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270121T000000
+DTEND;TZID=America/Los_Angeles:20270122T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7c9d6150a016eabc85dd7e80f055b764@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270121T000000
+DTEND;TZID=America/Los_Angeles:20270122T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0330d27382a9695ddd127ddec232da86@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270122T000000
+DTEND;TZID=America/Los_Angeles:20270122T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:42c8b9da95f85eab04a179103e5da35d@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270122T000000
+DTEND;TZID=America/Los_Angeles:20270122T220000
+SUMMARY:PF Milwaukie: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5bedbe4ff08e034172a00cf59fd819bb@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270123T060000
+DTEND;TZID=America/Los_Angeles:20270123T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ac6728e4ba9f86b7b3576dc75e0728@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270123T060000
+DTEND;TZID=America/Los_Angeles:20270123T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ae31f8f3186bf061aec50a5f808576@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270124T060000
+DTEND;TZID=America/Los_Angeles:20270124T220000
+SUMMARY:PF Milwaukie: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f0758997397e2668b86ebba30c667c8a@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270124T060000
+DTEND;TZID=America/Los_Angeles:20270124T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b8c81909fd95a0fd360cbee90e59438@planet-fitness-hours-calendar
+DTSTAMP:20261028T222532Z
+DTSTART;TZID=America/Los_Angeles:20270125T000000
+DTEND;TZID=America/Los_Angeles:20270126T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc00217a5c37f72878968b84b98a55f@planet-fitness-hours-calendar
+DTSTAMP:20261028T221924Z
+DTSTART;TZID=America/Los_Angeles:20270125T000000
+DTEND;TZID=America/Los_Angeles:20270126T000000
+SUMMARY:PF Milwaukie: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Milwaukie (
+ Hwy 224 & SE Oak St).\nHours as published on planetfitness.com – confirm
+  with the club before visiting.\nSource: https://www.planetfitness.com/gym
+ s/milwaukie-hwy-224-se-oak-st-or (hours data e2878858ee3f)
+LOCATION:Planet Fitness\, 10898 SE Oak St\, Milwaukie\, OR 97222
+URL:https://www.planetfitness.com/gyms/milwaukie-hwy-224-se-oak-st-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
