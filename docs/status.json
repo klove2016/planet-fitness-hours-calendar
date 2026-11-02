@@ -1,17 +1,17 @@
 {
   "project": "planet-fitness-hours-calendar",
-  "status": "warning",
-  "stale": false,
+  "status": "error",
+  "stale": true,
   "stale_after_hours": 192,
-  "last_checked": "2026-10-28T23:02:10+00:00",
+  "last_checked": "2026-11-02T13:46:48+00:00",
   "horizon": {
-    "start": "2026-10-28",
+    "start": "2026-11-02",
     "days": 90
   },
   "combined": {
     "file": "planet_fitness_both_hours.ics",
     "name": "Planet Fitness \u2013 Milwaukie + SE 82nd Club Hours",
-    "changed": false,
+    "changed": true,
     "error": null
   },
   "gyms": {
@@ -21,9 +21,9 @@
       "file": "planet_fitness_milwaukie_hours.ics",
       "status": "warning",
       "stale": false,
-      "last_checked": "2026-10-28T23:02:10+00:00",
-      "last_success": "2026-10-28T23:02:10+00:00",
-      "last_published": "2026-10-28T22:55:25+00:00",
+      "last_checked": "2026-11-02T13:46:48+00:00",
+      "last_success": "2026-11-02T13:46:48+00:00",
+      "last_published": "2026-11-02T13:46:48+00:00",
       "fingerprint": "e2878858ee3fdeba3d586621a3e6edfb23c036cae7e607921aa7850f288797ed",
       "first_seen": "2026-10-28T22:19:24+00:00",
       "hours": {
@@ -111,7 +111,7 @@
         "Holiday hours not yet published for: Thanksgiving (2026-11-26), Christmas Eve (2026-12-24), Christmas (2026-12-25), New Year's Eve (2026-12-31), New Year's Day (2027-01-01) \u2013 regular hours shown, labelled unconfirmed."
       ],
       "errors": [],
-      "fetched_at": "2026-10-28T23:02:19+00:00",
+      "fetched_at": "2026-11-02T13:47:16+00:00",
       "extraction": {
         "weekly_source": "structured+dom",
         "holidays_available": true,
@@ -119,16 +119,16 @@
         "club_name": "Milwaukie (Hwy 224 & SE Oak St), OR"
       },
       "hours_changed": false,
-      "file_changed": false,
-      "event_count_check": "90 -> 90 events over 2026-10-28..2027-01-25"
+      "file_changed": true,
+      "event_count_check": "85 -> 90 events over 2026-11-02..2027-01-30"
     },
     "se_82nd": {
       "name": "Planet Fitness Portland SE 82nd (Clackamas)",
       "url": "https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or",
       "file": "planet_fitness_se_82nd_hours.ics",
-      "status": "warning",
-      "stale": false,
-      "last_checked": "2026-10-28T23:02:10+00:00",
+      "status": "error",
+      "stale": true,
+      "last_checked": "2026-11-02T13:46:48+00:00",
       "last_success": "2026-10-28T23:02:10+00:00",
       "last_published": "2026-10-28T22:55:25+00:00",
       "fingerprint": "e2878858ee3fdeba3d586621a3e6edfb23c036cae7e607921aa7850f288797ed",
@@ -215,19 +215,11 @@
         }
       ],
       "warnings": [
-        "Holiday hours not yet published for: Thanksgiving (2026-11-26), Christmas Eve (2026-12-24), Christmas (2026-12-25), New Year's Eve (2026-12-31), New Year's Day (2027-01-01) \u2013 regular hours shown, labelled unconfirmed."
+        "Feed NOT updated; the last validated feed for this gym remains published."
       ],
-      "errors": [],
-      "fetched_at": "2026-10-28T23:02:19+00:00",
-      "extraction": {
-        "weekly_source": "structured+dom",
-        "holidays_available": true,
-        "club_slug": "portland-se-82nd-clackamas-or",
-        "club_name": "Portland (SE 82nd Clackamas), OR"
-      },
-      "hours_changed": false,
-      "file_changed": false,
-      "event_count_check": "90 -> 90 events over 2026-10-28..2027-01-25"
+      "errors": [
+        "FetchError: https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or: gave up after 4 attempts: club data never appeared (HTTP 403, stuck on Cloudflare browser check)"
+      ]
     }
   },
   "limitations": [
