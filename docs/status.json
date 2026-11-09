@@ -1,11 +1,11 @@
 {
   "project": "planet-fitness-hours-calendar",
-  "status": "error",
-  "stale": true,
+  "status": "warning",
+  "stale": false,
   "stale_after_hours": 192,
-  "last_checked": "2026-11-02T13:46:48+00:00",
+  "last_checked": "2026-11-09T13:45:39+00:00",
   "horizon": {
-    "start": "2026-11-02",
+    "start": "2026-11-09",
     "days": 90
   },
   "combined": {
@@ -21,11 +21,11 @@
       "file": "planet_fitness_milwaukie_hours.ics",
       "status": "warning",
       "stale": false,
-      "last_checked": "2026-11-02T13:46:48+00:00",
-      "last_success": "2026-11-02T13:46:48+00:00",
-      "last_published": "2026-11-02T13:46:48+00:00",
-      "fingerprint": "e2878858ee3fdeba3d586621a3e6edfb23c036cae7e607921aa7850f288797ed",
-      "first_seen": "2026-10-28T22:19:24+00:00",
+      "last_checked": "2026-11-09T13:45:39+00:00",
+      "last_success": "2026-11-09T13:45:39+00:00",
+      "last_published": "2026-11-09T13:45:39+00:00",
+      "fingerprint": "db8d3f98ea4e8652caf852a4c425ba1e52b559da11d1b9b41e8f4bf630de92d3",
+      "first_seen": "2026-11-09T13:45:39+00:00",
       "hours": {
         "Monday": "24 hours",
         "Tuesday": "24 hours",
@@ -37,6 +37,16 @@
       },
       "events": 90,
       "holidays_listed": [
+        {
+          "date": "2025-11-26",
+          "holiday": "Thanksgiving",
+          "hours": "12:00 AM \u2013 12:00 PM"
+        },
+        {
+          "date": "2025-11-27",
+          "holiday": "Thanksgiving",
+          "hours": "6:00 AM \u2013 10:00 PM"
+        },
         {
           "date": "2026-04-04",
           "holiday": "Easter",
@@ -92,6 +102,28 @@
         }
       ],
       "history": [
+        {
+          "seen": "2026-11-09T13:45:39+00:00",
+          "fingerprint": "db8d3f98ea4e8652caf852a4c425ba1e52b559da11d1b9b41e8f4bf630de92d3",
+          "hours": {
+            "Monday": "24 hours",
+            "Tuesday": "24 hours",
+            "Wednesday": "24 hours",
+            "Thursday": "24 hours",
+            "Friday": "12:00 AM \u2013 10:00 PM",
+            "Saturday": "6:00 AM \u2013 10:00 PM",
+            "Sunday": "6:00 AM \u2013 10:00 PM"
+          },
+          "previous_hours": {
+            "Monday": "24 hours",
+            "Tuesday": "24 hours",
+            "Wednesday": "24 hours",
+            "Thursday": "24 hours",
+            "Friday": "12:00 AM \u2013 10:00 PM",
+            "Saturday": "6:00 AM \u2013 10:00 PM",
+            "Sunday": "6:00 AM \u2013 10:00 PM"
+          }
+        },
         {
           "seen": "2026-10-28T22:19:24+00:00",
           "fingerprint": "e2878858ee3fdeba3d586621a3e6edfb23c036cae7e607921aa7850f288797ed",
@@ -111,28 +143,28 @@
         "Holiday hours not yet published for: Thanksgiving (2026-11-26), Christmas Eve (2026-12-24), Christmas (2026-12-25), New Year's Eve (2026-12-31), New Year's Day (2027-01-01) \u2013 regular hours shown, labelled unconfirmed."
       ],
       "errors": [],
-      "fetched_at": "2026-11-02T13:47:16+00:00",
+      "fetched_at": "2026-11-09T13:45:45+00:00",
       "extraction": {
         "weekly_source": "structured+dom",
         "holidays_available": true,
         "club_slug": "milwaukie-hwy-224-se-oak-st-or",
         "club_name": "Milwaukie (Hwy 224 & SE Oak St), OR"
       },
-      "hours_changed": false,
+      "hours_changed": true,
       "file_changed": true,
-      "event_count_check": "85 -> 90 events over 2026-11-02..2027-01-30"
+      "event_count_check": "83 -> 90 events over 2026-11-09..2027-02-06"
     },
     "se_82nd": {
       "name": "Planet Fitness Portland SE 82nd (Clackamas)",
       "url": "https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or",
       "file": "planet_fitness_se_82nd_hours.ics",
-      "status": "error",
-      "stale": true,
-      "last_checked": "2026-11-02T13:46:48+00:00",
-      "last_success": "2026-10-28T23:02:10+00:00",
-      "last_published": "2026-10-28T22:55:25+00:00",
-      "fingerprint": "e2878858ee3fdeba3d586621a3e6edfb23c036cae7e607921aa7850f288797ed",
-      "first_seen": "2026-10-28T22:25:32+00:00",
+      "status": "warning",
+      "stale": false,
+      "last_checked": "2026-11-09T13:45:39+00:00",
+      "last_success": "2026-11-09T13:45:39+00:00",
+      "last_published": "2026-11-09T13:45:39+00:00",
+      "fingerprint": "db8d3f98ea4e8652caf852a4c425ba1e52b559da11d1b9b41e8f4bf630de92d3",
+      "first_seen": "2026-11-09T13:45:39+00:00",
       "hours": {
         "Monday": "24 hours",
         "Tuesday": "24 hours",
@@ -144,6 +176,16 @@
       },
       "events": 90,
       "holidays_listed": [
+        {
+          "date": "2025-11-26",
+          "holiday": "Thanksgiving",
+          "hours": "12:00 AM \u2013 12:00 PM"
+        },
+        {
+          "date": "2025-11-27",
+          "holiday": "Thanksgiving",
+          "hours": "6:00 AM \u2013 10:00 PM"
+        },
         {
           "date": "2026-04-04",
           "holiday": "Easter",
@@ -200,6 +242,28 @@
       ],
       "history": [
         {
+          "seen": "2026-11-09T13:45:39+00:00",
+          "fingerprint": "db8d3f98ea4e8652caf852a4c425ba1e52b559da11d1b9b41e8f4bf630de92d3",
+          "hours": {
+            "Monday": "24 hours",
+            "Tuesday": "24 hours",
+            "Wednesday": "24 hours",
+            "Thursday": "24 hours",
+            "Friday": "12:00 AM \u2013 10:00 PM",
+            "Saturday": "6:00 AM \u2013 10:00 PM",
+            "Sunday": "6:00 AM \u2013 10:00 PM"
+          },
+          "previous_hours": {
+            "Monday": "24 hours",
+            "Tuesday": "24 hours",
+            "Wednesday": "24 hours",
+            "Thursday": "24 hours",
+            "Friday": "12:00 AM \u2013 10:00 PM",
+            "Saturday": "6:00 AM \u2013 10:00 PM",
+            "Sunday": "6:00 AM \u2013 10:00 PM"
+          }
+        },
+        {
           "seen": "2026-10-28T22:25:32+00:00",
           "fingerprint": "e2878858ee3fdeba3d586621a3e6edfb23c036cae7e607921aa7850f288797ed",
           "hours": {
@@ -215,11 +279,19 @@
         }
       ],
       "warnings": [
-        "Feed NOT updated; the last validated feed for this gym remains published."
+        "Holiday hours not yet published for: Thanksgiving (2026-11-26), Christmas Eve (2026-12-24), Christmas (2026-12-25), New Year's Eve (2026-12-31), New Year's Day (2027-01-01) \u2013 regular hours shown, labelled unconfirmed."
       ],
-      "errors": [
-        "FetchError: https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or: gave up after 4 attempts: club data never appeared (HTTP 403, stuck on Cloudflare browser check)"
-      ]
+      "errors": [],
+      "fetched_at": "2026-11-09T13:45:52+00:00",
+      "extraction": {
+        "weekly_source": "structured+dom",
+        "holidays_available": true,
+        "club_slug": "portland-se-82nd-clackamas-or",
+        "club_name": "Portland (SE 82nd Clackamas), OR"
+      },
+      "hours_changed": true,
+      "file_changed": true,
+      "event_count_check": "78 -> 90 events over 2026-11-09..2027-02-06"
     }
   },
   "limitations": [
