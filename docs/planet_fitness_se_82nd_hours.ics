@@ -28,111 +28,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f96f2eed705ac1bde2c395f71ebef297@planet-fitness-hours-calendar
-DTSTAMP:20261109T134539Z
-DTSTART;TZID=America/Los_Angeles:20261109T000000
-DTEND;TZID=America/Los_Angeles:20261110T000000
-SUMMARY:PF SE 82nd: Open 24 hours
-DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
-  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
- th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
- ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
-LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
-URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5bcc6401fc7b9d5f26670cf5e9a6f1cc@planet-fitness-hours-calendar
-DTSTAMP:20261109T134539Z
-DTSTART;TZID=America/Los_Angeles:20261110T000000
-DTEND;TZID=America/Los_Angeles:20261111T000000
-SUMMARY:PF SE 82nd: Open 24 hours
-DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
-  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
- th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
- ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
-LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
-URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7ce3d28940e2294716b2c02f8aee0671@planet-fitness-hours-calendar
-DTSTAMP:20261109T134539Z
-DTSTART;TZID=America/Los_Angeles:20261111T000000
-DTEND;TZID=America/Los_Angeles:20261112T000000
-SUMMARY:PF SE 82nd: Open 24 hours
-DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
-  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
- th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
- ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
-LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
-URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:48d7d1e69aea09c9574504c1a9ac39e1@planet-fitness-hours-calendar
-DTSTAMP:20261109T134539Z
-DTSTART;TZID=America/Los_Angeles:20261112T000000
-DTEND;TZID=America/Los_Angeles:20261113T000000
-SUMMARY:PF SE 82nd: Open 24 hours
-DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
-  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
- th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
- ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
-LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
-URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:1e59c965afa8038ab72638dba5b4f640@planet-fitness-hours-calendar
-DTSTAMP:20261109T134539Z
-DTSTART;TZID=America/Los_Angeles:20261113T000000
-DTEND;TZID=America/Los_Angeles:20261113T220000
-SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
-DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
-  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
- th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
- ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
-LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
-URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8ab139c75ebee76326d00759e96170a5@planet-fitness-hours-calendar
-DTSTAMP:20261109T134539Z
-DTSTART;TZID=America/Los_Angeles:20261114T060000
-DTEND;TZID=America/Los_Angeles:20261114T220000
-SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
-DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
-  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
- th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
- ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
-LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
-URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fc488c8592822950cde3a59a385a0d6c@planet-fitness-hours-calendar
-DTSTAMP:20261109T134539Z
-DTSTART;TZID=America/Los_Angeles:20261115T060000
-DTEND;TZID=America/Los_Angeles:20261115T220000
-SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
-DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
-  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
- th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
- ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
-LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
-URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cd733f450dc461dcd4118cbc8d4e4efd@planet-fitness-hours-calendar
 DTSTAMP:20261109T134539Z
 DTSTART;TZID=America/Los_Angeles:20261116T000000
@@ -1381,6 +1276,111 @@ UID:cbfe76b4b10bef35db9c3e87dcb97b1c@planet-fitness-hours-calendar
 DTSTAMP:20261109T134539Z
 DTSTART;TZID=America/Los_Angeles:20270206T060000
 DTEND;TZID=America/Los_Angeles:20270206T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9b46f0a3582f1f3421a20b03394df2a4@planet-fitness-hours-calendar
+DTSTAMP:20261109T134539Z
+DTSTART;TZID=America/Los_Angeles:20270207T060000
+DTEND;TZID=America/Los_Angeles:20270207T220000
+SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6d5fccd2222e02a806d289424da7762f@planet-fitness-hours-calendar
+DTSTAMP:20261109T134539Z
+DTSTART;TZID=America/Los_Angeles:20270208T000000
+DTEND;TZID=America/Los_Angeles:20270209T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa1814376a78f10e49f28949fd782cf@planet-fitness-hours-calendar
+DTSTAMP:20261109T134539Z
+DTSTART;TZID=America/Los_Angeles:20270209T000000
+DTEND;TZID=America/Los_Angeles:20270210T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8de83c1a2134be887a256a5f8c841ad0@planet-fitness-hours-calendar
+DTSTAMP:20261109T134539Z
+DTSTART;TZID=America/Los_Angeles:20270210T000000
+DTEND;TZID=America/Los_Angeles:20270211T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f7a23919601891697bfe6ed145f158@planet-fitness-hours-calendar
+DTSTAMP:20261109T134539Z
+DTSTART;TZID=America/Los_Angeles:20270211T000000
+DTEND;TZID=America/Los_Angeles:20270212T000000
+SUMMARY:PF SE 82nd: Open 24 hours
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2a9679fe6122a4bd992a8f6ce19f49a4@planet-fitness-hours-calendar
+DTSTAMP:20261109T134539Z
+DTSTART;TZID=America/Los_Angeles:20270212T000000
+DTEND;TZID=America/Los_Angeles:20270212T220000
+SUMMARY:PF SE 82nd: Open 12:00 AM – 10:00 PM
+DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
+  82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi
+ th the club before visiting.\nSource: https://www.planetfitness.com/gyms/p
+ ortland-se-82nd-clackamas-or (hours data db8d3f98ea4e)
+LOCATION:Planet Fitness\, 10319 SE 82nd Ave\, Portland\, OR 97266
+URL:https://www.planetfitness.com/gyms/portland-se-82nd-clackamas-or
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd20fe143acc1ff474a7a14df33f3b5@planet-fitness-hours-calendar
+DTSTAMP:20261109T134539Z
+DTSTART;TZID=America/Los_Angeles:20270213T060000
+DTEND;TZID=America/Los_Angeles:20270213T220000
 SUMMARY:PF SE 82nd: Open 6:00 AM – 10:00 PM
 DESCRIPTION:Club opening hours (not classes) for Planet Fitness Portland SE
   82nd (Clackamas).\nHours as published on planetfitness.com – confirm wi

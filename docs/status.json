@@ -3,9 +3,9 @@
   "status": "warning",
   "stale": false,
   "stale_after_hours": 192,
-  "last_checked": "2026-11-09T13:45:39+00:00",
+  "last_checked": "2026-11-16T14:01:06+00:00",
   "horizon": {
-    "start": "2026-11-09",
+    "start": "2026-11-16",
     "days": 90
   },
   "combined": {
@@ -21,9 +21,9 @@
       "file": "planet_fitness_milwaukie_hours.ics",
       "status": "warning",
       "stale": false,
-      "last_checked": "2026-11-09T13:45:39+00:00",
-      "last_success": "2026-11-09T13:45:39+00:00",
-      "last_published": "2026-11-09T13:45:39+00:00",
+      "last_checked": "2026-11-16T14:01:06+00:00",
+      "last_success": "2026-11-16T14:01:06+00:00",
+      "last_published": "2026-11-16T14:01:06+00:00",
       "fingerprint": "db8d3f98ea4e8652caf852a4c425ba1e52b559da11d1b9b41e8f4bf630de92d3",
       "first_seen": "2026-11-09T13:45:39+00:00",
       "hours": {
@@ -143,16 +143,16 @@
         "Holiday hours not yet published for: Thanksgiving (2026-11-26), Christmas Eve (2026-12-24), Christmas (2026-12-25), New Year's Eve (2026-12-31), New Year's Day (2027-01-01) \u2013 regular hours shown, labelled unconfirmed."
       ],
       "errors": [],
-      "fetched_at": "2026-11-09T13:45:45+00:00",
+      "fetched_at": "2026-11-16T14:01:07+00:00",
       "extraction": {
         "weekly_source": "structured+dom",
         "holidays_available": true,
         "club_slug": "milwaukie-hwy-224-se-oak-st-or",
         "club_name": "Milwaukie (Hwy 224 & SE Oak St), OR"
       },
-      "hours_changed": true,
+      "hours_changed": false,
       "file_changed": true,
-      "event_count_check": "83 -> 90 events over 2026-11-09..2027-02-06"
+      "event_count_check": "83 -> 90 events over 2026-11-16..2027-02-13"
     },
     "se_82nd": {
       "name": "Planet Fitness Portland SE 82nd (Clackamas)",
@@ -160,9 +160,9 @@
       "file": "planet_fitness_se_82nd_hours.ics",
       "status": "warning",
       "stale": false,
-      "last_checked": "2026-11-09T13:45:39+00:00",
-      "last_success": "2026-11-09T13:45:39+00:00",
-      "last_published": "2026-11-09T13:45:39+00:00",
+      "last_checked": "2026-11-16T14:01:06+00:00",
+      "last_success": "2026-11-16T14:01:06+00:00",
+      "last_published": "2026-11-16T14:01:06+00:00",
       "fingerprint": "db8d3f98ea4e8652caf852a4c425ba1e52b559da11d1b9b41e8f4bf630de92d3",
       "first_seen": "2026-11-09T13:45:39+00:00",
       "hours": {
@@ -282,16 +282,16 @@
         "Holiday hours not yet published for: Thanksgiving (2026-11-26), Christmas Eve (2026-12-24), Christmas (2026-12-25), New Year's Eve (2026-12-31), New Year's Day (2027-01-01) \u2013 regular hours shown, labelled unconfirmed."
       ],
       "errors": [],
-      "fetched_at": "2026-11-09T13:45:52+00:00",
+      "fetched_at": "2026-11-16T14:01:17+00:00",
       "extraction": {
         "weekly_source": "structured+dom",
         "holidays_available": true,
         "club_slug": "portland-se-82nd-clackamas-or",
         "club_name": "Portland (SE 82nd Clackamas), OR"
       },
-      "hours_changed": true,
+      "hours_changed": false,
       "file_changed": true,
-      "event_count_check": "78 -> 90 events over 2026-11-09..2027-02-06"
+      "event_count_check": "83 -> 90 events over 2026-11-16..2027-02-13"
     }
   },
   "limitations": [
